@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCam</string>
+    <string name="select_from_gallery">Select from Gallery</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="image">image</string>
+</resources>
