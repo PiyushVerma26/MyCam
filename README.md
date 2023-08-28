@@ -40,11 +40,3 @@ Contributions to this project are welcome! If you find any bugs, have suggestion
 5. Submit a pull request, explaining the changes you've made.
 
 Please follow the project's code of conduct and guidelines when contributing.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this description to fit your project's specifics and add any additional information you find relevant.
